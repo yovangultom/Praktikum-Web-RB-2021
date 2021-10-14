@@ -1,0 +1,42 @@
+html {
+    margin: 20px;
+    background-color: rgb(255, 255, 255);
+    font-family: verdana;
+}
+
+header {
+    background-color: rgb(190, 190, 190);
+    border: 5px black solid;
+}
+
+nav {
+    background-color: rgb(255, 255, 255);
+    border-left: 5px black solid;
+    border-right: 5px black solid;
+    text-align: center;
+}
+
+footer {
+    background-color: rgb(255, 255, 255);
+    border-bottom: 5px black solid;
+    border-left: 5px black solid;
+    border-right: 5px black solid;
+}
+
+.BIODATA {
+    width: 80%;
+    background-color: rgb(190, 190, 190);
+}
+
+.BERITA {
+    width: 20%;
+    background-color: rgb(190, 190, 190);
+    border-left: 5px black solid;
+}
+
+.BODY {
+    width: auto;
+    height: auto;
+    display: flex;
+    border: 5px black solid;
+}
